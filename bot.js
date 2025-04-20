@@ -1,5 +1,4 @@
 // bot.js
-// Part 1: Imports and Setup
 process.removeAllListeners('warning');
 
 import baileys from '@whiskeysockets/baileys';
